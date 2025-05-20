@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+import app as app
+
 from application  import application , db
 from application .models import User, Alcohol, Music, Wish, UserChoice
 
